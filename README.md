@@ -5,17 +5,9 @@
 something iguess
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/l-PandoraBox?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/l-PandoraBox?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12608](https://github.com/nuxt/nuxt.js/issues/12608) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-2. 💪 Opened PR [#9962](https://github.com/nuxt/framework/pull/9962) in [nuxt/framework](https://github.com/nuxt/framework)
-3. 🗣 Commented on [#9946](https://github.com/nuxt/framework/issues/9946) in [nuxt/framework](https://github.com/nuxt/framework)
-4. 💪 Opened PR [#9946](https://github.com/nuxt/framework/pull/9946) in [nuxt/framework](https://github.com/nuxt/framework)
-5. 🗣 Commented on [#1029](https://github.com/t3-oss/create-t3-app/issues/1029) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
-<!--END_SECTION:activity-->
 
 ---
 
@@ -35,7 +27,13 @@ something iguess
 
 ### 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=l-PandoraBox&show_icons=true&theme=gruvbox)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=l-PandoraBox&show_icons=true&theme=tokyonight">
+</p>
+<p align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-PandoraBox&layout=compact&langs_count=7&theme=tokyonight">
+</p>
+
 
 
 #
